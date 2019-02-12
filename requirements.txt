@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+requests
+beautifulsoup4
+
+###### Requirements with Version Specifiers ######
+# 今の所なし
